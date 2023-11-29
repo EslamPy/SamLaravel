@@ -29,7 +29,7 @@ Here are a few fun facts about me:
 
 Let's connect and collaborate:
 
-- **LinkedIn:** [[Connect with me](https://www.linkedin.com/in/eslam-hani-6b12a426a/)](#)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/eslam-hani-6b12a426a/)
 - **Instagram:** [Say hi](#)
 - **Email:** [samdev@outlook.de](samdev@outlook.de)
 
